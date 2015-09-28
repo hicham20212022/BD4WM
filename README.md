@@ -1,4 +1,8 @@
 # BD4WM
+This work is funded by the Water Innovation Fellowships (WIF) program from FABRI /USAID
+
+project overview: http://menanwc.org/projects/big-data-water-management
+
 Using Spark RRD, Spark SQL and SparkR (1.5 version) for handling Water Big Data 
 - Water Smart Metering Data (Smart Metering Information Portal):  2246 files (1.4 Gb) downloaded from  SMIP https://code.google.com/p/smart-meter-information-portal/downloads/detail?name=SMIPsampledata.tar.gz&can=2&q=
 - Weather Station Data (EUROPEAN CLIMATE ASSESSMENT & DATASET) : excerpt of 491 files (296 Mb) : downloaded from http://eca.knmi.nl/dailydata/predefinedseries.php
